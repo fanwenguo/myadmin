@@ -1,0 +1,82 @@
+{
+    "code": 1,
+    "date": [
+        {
+            "index": 1,
+            "org": "工程维护本部",
+            "uporg": "电信通后台2部",
+            "name":"张三",
+            "bianhao":123,
+            "phone":15234961364,
+            "email":"495343686@qq.com",
+            "jurisdiction":"收银员",
+            "date":"2018-6-8"
+        },
+        {
+            "index": 2,
+            "org": "黄永章组",
+            "uporg": "教育业务部",
+            "name":"张三",
+            "bianhao":123,
+            "phone":15234961364,
+            "email":"495343686@qq.com",
+            "jurisdiction":"收银员",
+            "date":"2018-6-8"
+        },
+        {
+            "index": 3,
+            "org": "企业营销",
+            "uporg": "北京电信通电信工程有限公司",
+            "name":"张三",
+            "bianhao":123,
+            "phone":15234961364,
+            "email":"495343686@qq.com",
+            "jurisdiction":"收银员",
+            "date":"2018-6-8"
+        },
+        {
+            "index": 4,
+            "org": "专网事业部",
+            "uporg": "北京电信通电信工程有限公司",
+            "name":"张三",
+            "bianhao":123,
+            "phone":15234961364,
+            "email":"495343686@qq.com",
+            "jurisdiction":"收银员",
+            "date":"2018-6-8"
+        },
+        {
+            "index": 5,
+            "org": "资产管理部",
+            "uporg": "电信通后台1部",
+            "name":"张三",
+            "bianhao":123,
+            "phone":15234961364,
+            "email":"495343686@qq.com",
+            "jurisdiction":"收银员",
+            "date":"2018-6-8"
+        },
+        {
+            "index": 6,
+            "org": "电信通行政部",
+            "uporg": "北京电信通电信工程有限公司",
+            "name":"张三",
+            "bianhao":123,
+            "phone":15234961364,
+            "email":"495343686@qq.com",
+            "jurisdiction":"收银员",
+            "date":"2018-6-8"
+        },
+        {
+            "index": 7,
+            "org": "人事行政部",
+            "uporg": "电信通后台1部",
+            "name":"张三",
+            "bianhao":123,
+            "phone":15234961364,
+            "email":"495343686@qq.com",
+            "jurisdiction":"收银员",
+            "date":"2018-6-8"
+        }
+    ]
+}

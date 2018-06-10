@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "data": [
+        {
+            "id": 1,
+            "level": 1,
+            "name": "组织权限管理",
+            "submenus": [
+                {
+                    "id": 1,
+                    "level": 2,
+                    "name": "员工账号管理",
+                    "type":"employees_account"
+                },
+                {
+                    "id": 1,
+                    "level": 2,
+                    "name": "用户管理",
+                    "type":"user_control"
+                },
+                {
+                    "id": 1,
+                    "level": 2,
+                    "name": "菜单管理",
+                    "type":"menubar"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "level": 1,
+            "name": "我的工作",
+            "submenus": []
+        },
+        {
+            "id": 1,
+            "level": 1,
+            "name": "客户管理",
+            "submenus": []
+        },
+        {
+            "id": 1,
+            "level": 1,
+            "name": "业务审批",
+            "submenus": []
+        },
+        {
+            "id": 1,
+            "level": 1,
+            "name": "工程管理",
+            "submenus": []
+        }
+    ]
+}

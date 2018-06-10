@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+  html,
+  body,
+  #app,
+  .wrap {
+    width: 100%;
+    height: 630px;
+  }
+  .section {
+    position: relative;
+    width: 100%;
+    height: 430px;
+    background: url(../../images/bg.png) no-repeat 100% 100%;
+  }
+  .form {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    width: 280px;
+    height: 320px;
+    background: #fff;
+    border-radius:6px;
+  }
+  .titles {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .titles span {
+    display: block;
+    width: 50%;
+    height: 100%;
+    line-height: 40px;
+    text-align: center;
+  }
+  .footer {
+    text-align: center;
+  }
+  .footer > div {
+    width: 600px;
+    margin-left: 30%;
+    display: flex;
+    align-items: center;
+  }
+  .footer > div img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+  }
+  .login {
+    width: 240px;
+    height: 280px;
+    margin-left: 25px;
+  }
+  ul h5 {
+    font-weight: normal;
+    color: lightblue;
+  }
+  ul li {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  ul li p {
+    width: 220px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    border-radius: 4px;
+  }
+  ul li input {
+    border: none;
+    outline: none;
+  }
+  .btn1 {
+    display: inline-block;
+    margin: 10px 0 0 5px;
+    font-size:12px;
+  }
+  .loginBtn {
+    width: 220px;
+    height: 30px;
+    line-height: 30px;
+    border: none;
+    outline: none;
+    background: blue;
+    color: #fff;
+    margin-top: 10px;
+    border-radius: 4px;
+  }
+  .qrcode{
+    width: 240px;
+    height: 280px;
+    margin-left: 25px;
+    text-align: center;
+  }
+  .bg{
+    background: #ccc;
+    color:#fff;
+  }

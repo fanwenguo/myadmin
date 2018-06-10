@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .userbox{
+    width: 100%;
+    height: 600px;
+  }
+  .el-form-item{
+    display: inline-block;
+    width:240px;
+    margin-left:10px;
+  }
+  .el-button{
+    margin-left:10px;
+  }
+  .tbl {
+    width: 100%;
+    height: 95%;
+    border-collapse: collapse;
+  }
+  .tad {
+    width: 100%;
+    height: 5%;
+    line-height: 30px;
+    text-align: center;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid #ccc;
+  }
+  .tad tr,
+  .tad th {
+    border-collapse: collapse;
+  }
+  .tad tr th{
+    font-weight:normal;
+  }
+  .tb {
+    width: 100%;
+    height: 95%;
+    text-align: center;
+  }
+  .tb tr {
+    width: 100%;
+    height: 3%;
+  }
+  .tb tr,
+  .tb td {
+    border-collapse: collapse;
+  }
+  .pagination {
+    width: 100%;
+    height: 5%;
+  }
+  .pagination span {
+    margin: 0 10px;
+  }
